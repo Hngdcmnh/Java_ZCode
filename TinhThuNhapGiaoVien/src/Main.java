@@ -6,7 +6,7 @@ public class Main {
     public static void main(String[] args)
     {
         Scanner scn = new Scanner(System.in);
-        int t = Integer.parseInt(scn.nextLine().trim());
+        int t = 1;
         ArrayList<GiaoVien> list = new ArrayList<>();
         int demHT=0;
         int demHP=0;
